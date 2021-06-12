@@ -1,6 +1,6 @@
 #Armazenamento Sequencial 
 
-```
+
 public class Aluno {
   private String nome; 
   public Aluno(String nome) {
@@ -21,4 +21,3 @@ public class Aluno {
   }
 
 }
-```
