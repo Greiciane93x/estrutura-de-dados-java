@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c825f889-8794-4e69-8ce7-663807cbd120" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/br.com.studant/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/br.com.studant/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VetorTeste.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
