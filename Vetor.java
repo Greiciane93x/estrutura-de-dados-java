@@ -30,6 +30,10 @@ public class Vetor{
     return null; 
   }
   public boolean contain(Aluno aluno){
+    
+    for(int = 0; i < alunos.length; i++){
+      if(aluno.equals(alunos[i])){return true;}
+    }
     return false; 
   }
   public int tamanho(){
